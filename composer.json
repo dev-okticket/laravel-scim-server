@@ -1,5 +1,5 @@
 {
-    "name": "dev-okticket/laravel-scim-server",
+    "name": "arietimmerman/laravel-scim-server",
     "description": "Laravel Package for creating a SCIM server",
     "type": "library",
     "license": "MIT",
